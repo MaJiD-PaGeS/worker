@@ -1,8 +1,8 @@
-de.ctcom.eu.org:42030#【DE🇩🇪】
-fr.ctcom.eu.org:8443#【FR🇫🇷】
-jp.ctcom.eu.org:2096#【JP🇯🇵】
-us.ctcom.eu.org:443#【US🇺🇸】
-ca.ctcom.eu.org:2053#【CA🇨🇦】
+de.ctcom.eu.org:42030#【DE☆🇩🇪】
+fr.ctcom.eu.org:8443#【FR~🇫🇷】
+jp.ctcom.eu.org:2096#【JP~🇯🇵】
+us.ctcom.eu.org:443#【US~🇺🇸】
+ca.ctcom.eu.org:2053#【CA~🇨🇦】
 se.ctcom.eu.org:2096#【SE~🇸🇪】
 gb.ctcom.eu.org:2087#【GB~🇬🇧】
 cr.ctcom.eu.org:2053#【CR~🇨🇷】
