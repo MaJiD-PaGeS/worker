@@ -1,6 +1,7 @@
 de.ctcom.eu.org:42030#【DE~🇩🇪】
 de-1.ctcom.eu.org:56500#【DE~🇩🇪】
 fr.ctcom.eu.org:8443#【FR~🇫🇷】
+nl.ctcom.eu.org:8443#【NL~🇳🇱】
 jp.ctcom.eu.org:2096#【JP~🇯🇵】
 us.ctcom.eu.org:443#【US~🇺🇸】
 ca.ctcom.eu.org:2053#【CA~🇨🇦】
